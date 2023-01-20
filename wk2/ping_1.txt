@@ -1,0 +1,12 @@
+(facebook.com)
+PING star-mini.c10r.facebook.com (157.240.249.35) 56(84) bytes of data.
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=1 ttl=53 time=11.5 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=2 ttl=53 time=10.6 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=3 ttl=53 time=10.5 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=4 ttl=53 time=10.6 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=5 ttl=53 time=10.6 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=6 ttl=53 time=11.1 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=7 ttl=53 time=10.6 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=8 ttl=53 time=10.6 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=9 ttl=53 time=10.6 ms
+64 bytes from edge-star-mini-shv-01-ord5.facebook.com (157.240.249.35): icmp_seq=10 ttl=53 time=10.6 ms

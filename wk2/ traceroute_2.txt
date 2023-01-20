@@ -1,0 +1,16 @@
+lomanchanshum@Lomans-MacBook-Air ~ % traceroute facebook.com
+traceroute to facebook.com (31.13.80.36), 64 hops max, 52 byte packets
+ 1  192.168.12.1 (192.168.12.1)  6.900 ms  5.012 ms  4.127 ms
+ 2  104.171.50.65 (104.171.50.65)  20.357 ms  20.355 ms  19.251 ms
+ 3  136.143.208.130 (136.143.208.130)  17.427 ms  21.711 ms  15.883 ms
+ 4  * * *
+ 5  135.0.199.97 (135.0.199.97)  21.366 ms
+    135.0.199.85 (135.0.199.85)  53.643 ms  40.738 ms
+ 6  facebook-a.ip4.torontointernetxchange.net (206.108.35.2)  57.109 ms  46.436 ms  41.707 ms
+ 7  po103.psw01.yyz1.tfbnw.net (31.13.31.83)  40.222 ms
+    po103.psw04.yyz1.tfbnw.net (204.15.23.245)  16.620 ms
+    po103.psw03.yyz1.tfbnw.net (74.119.78.171)  15.725 ms
+ 8  157.240.38.79 (157.240.38.79)  19.080 ms
+    157.240.38.241 (157.240.38.241)  21.304 ms
+    157.240.38.117 (157.240.38.117)  48.527 ms
+ 9  edge-star-mini-shv-01-yyz1.facebook.com (31.13.80.36)  20.121 ms  38.644 ms  41.725 ms

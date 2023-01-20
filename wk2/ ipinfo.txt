@@ -1,0 +1,79 @@
+(twitter)
+IP location database updated on	Dec 08, 2022 1:37 PM - Refresh Now
+IP Address	104.244.42.65
+Reverse DNS / Hostname / PTR	104.244.42.65
+City	San francisco
+Region	California
+Country	United states    United states (US)
+Organization / ISP	TWITTER
+Latitude / Longitude	37.78, -122.465
+Zipcode / Postcode	94118
+TimeZone	America/Los_Angeles (-0800)
+Calling Code	+1
+Currency	USD
+Languages	en-US, es-US, haw, fr
+ASN	AS13414
+
+(kijiji.ca)
+IP location database updated on	Jan 20, 2023 7:54 PM
+IP Address	91.195.49.142
+Reverse DNS / Hostname / PTR	91.195.49.142
+City	Amsterdam
+Region	North holland
+Country	Netherlands    Netherlands (NL)
+Organization / ISP	Marktplaats B.V.
+Latitude / Longitude	52.3766, 4.8348
+Zipcode / Postcode	1063
+TimeZone	Europe/Amsterdam (+0100)
+Calling Code	+31
+Currency	EUR
+Languages	nl-NL, fy-NL
+ASN	AS41552
+
+(amazon.com)
+IP location database updated on	Oct 02, 2022 9:06 AM - Refresh Now
+IP Address	52.94.236.248
+Reverse DNS / Hostname / PTR	52.94.236.248
+City	Ashburn
+Region	Virginia
+Country	United states    United states (US)
+Organization / ISP	AMAZON-02
+Latitude / Longitude	39.017388, -77.468037
+Zipcode / Postcode	20147
+TimeZone	America/New_York (-0400)
+Calling Code	+1
+Currency	USD
+Languages	en-US, es-US, haw, fr
+ASN	AS16509
+
+(instagram.com)
+IP location database updated on	May 30, 2022 10:13 PM - Refresh Now
+IP Address	185.60.216.174
+Reverse DNS / Hostname / PTR	instagram-p42-shv-01-frx5.fbcdn.net
+City	Frankfurt am main
+Region	Hesse
+Country	Germany    Germany (DE)
+Organization / ISP	FACEBOOK
+Latitude / Longitude	50.1049, 8.6295
+Zipcode / Postcode	60326
+TimeZone	Europe/Berlin (+0200)
+Calling Code	+49
+Currency	EUR
+Languages	de
+ASN	AS32934
+
+(booking.com)
+IP location database updated on	Sep 23, 2019 7:51 AM - Refresh Now
+IP Address	5.57.16.220
+Reverse DNS / Hostname / PTR	www.booking.com
+City	Amsterdam
+Region	North holland
+Country	Netherlands    Netherlands (NL)
+Organization / ISP	Booking.com BV
+Latitude / Longitude	52.3549, 4.838
+Zipcode / Postcode	1062
+TimeZone	Europe/Amsterdam (+0200)
+Calling Code	+31
+Currency	EUR
+Languages	nl-NL, fy-NL
+ASN	AS43996

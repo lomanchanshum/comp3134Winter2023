@@ -1,0 +1,15 @@
+(local machine)
+lomanchanshum@Lomans-MacBook-Air ~ % ping www.facebook.com
+PING star-mini.c10r.facebook.com (31.13.80.36): 56 data bytes
+64 bytes from 31.13.80.36: icmp_seq=0 ttl=58 time=3.098 ms
+64 bytes from 31.13.80.36: icmp_seq=1 ttl=58 time=4.707 ms
+64 bytes from 31.13.80.36: icmp_seq=2 ttl=58 time=9.494 ms
+64 bytes from 31.13.80.36: icmp_seq=3 ttl=58 time=9.938 ms
+64 bytes from 31.13.80.36: icmp_seq=4 ttl=58 time=3.366 ms
+64 bytes from 31.13.80.36: icmp_seq=5 ttl=58 time=3.215 ms
+64 bytes from 31.13.80.36: icmp_seq=6 ttl=58 time=9.541 ms
+64 bytes from 31.13.80.36: icmp_seq=7 ttl=58 time=3.251 ms
+64 bytes from 31.13.80.36: icmp_seq=8 ttl=58 time=14.599 ms
+64 bytes from 31.13.80.36: icmp_seq=9 ttl=58 time=3.007 ms
+64 bytes from 31.13.80.36: icmp_seq=10 ttl=58 time=4.062 ms
+64 bytes from 31.13.80.36: icmp_seq=11 ttl=58 time=9.490 ms
